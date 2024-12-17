@@ -37,7 +37,7 @@ body {
 header {
   width: 100%;
   padding: 20px 50px;
-  background-color: #333;
+  background-color: #000;
   align-items: center;
   box-sizing: border-box;
   display: flex;
@@ -112,7 +112,7 @@ main .banner .banner__subtitulo {
   box-sizing: border-box;
 }
 .cart .cart, .cart .cart__articulos {
-  border-bottom: 1px solid #333;
+  border-bottom: 1px solid #000;
   display: flex;
   justify-content: space-between;
   align-items: center;
